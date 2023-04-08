@@ -1,5 +1,5 @@
 {
-    "name": "lima/calculator",
+    "name": "new/calculator",
     "description": "This is my first custom package",
     "require": {}
 }
